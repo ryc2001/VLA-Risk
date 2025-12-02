@@ -6,6 +6,7 @@ This project provides three scene types for evaluating VLA models on various dat
   <img src="case/false.gif" width="30%">
 </div>
 
+![robot scene](case/new.png)
 
 ## Table of Contents
 
