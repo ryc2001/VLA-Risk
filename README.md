@@ -27,10 +27,6 @@ Evaluates model performance with **images**. Uses FLUX.1-Kontext model to natura
 
 ---
 
-<table>
-<tr>
-<td width="50%">
-
 <h3>Custom Instruction Attack</h3>
 <video width="600" controls>
   <source src="https://raw.githubusercontent.com/ryc2001/VLA-Risk/main/case/true.mp4" type="video/mp4">
