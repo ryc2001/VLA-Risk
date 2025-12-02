@@ -1,7 +1,8 @@
 # VLA Risk Evaluation
 
 This project provides three scene types for evaluating VLA models on various datasets, supporting instructions and image attacks.
-
+![Demo](case/true.gif)
+![Demo](case/false.gif)
 ## Table of Contents
 
 - [Script Overview](#script-overview)
@@ -25,15 +26,7 @@ Evaluates model performance with **instructions**. Allows replacing the original
 ### 2. `run_single_task_image_flux.py`
 Evaluates model performance with **images**. Uses FLUX.1-Kontext model to naturally add text labels on images.
 
----
 
-![Demo](case/true.gif)
-
-
-<h3>Image Attack with FLUX</h3>
-<video width="600" controls>
-  <source src="https://raw.githubusercontent.com/ryc2001/VLA-Risk/main/case/false.mp4" type="video/mp4">
-</video>
 ---
 
 #### Basic Usage
