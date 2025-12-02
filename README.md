@@ -1,4 +1,4 @@
-# VLA Riskisk Evaluation
+# VLA Risk Evaluation
 
 This project provides three scene types for evaluating VLA models on various datasets, supporting instructions and image attacks.
 
@@ -34,7 +34,7 @@ Evaluates model performance with **images**. Uses FLUX.1-Kontext model to natura
 **Custom Instruction Attack**
 
 <video width="100%" controls>
-  <source src="case/2025_09_21-07_02_29--episode=4--success=True--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4" type="video/mp4">
+  <source src="case/true.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -44,7 +44,7 @@ Evaluates model performance with **images**. Uses FLUX.1-Kontext model to natura
 **Image Attack with FLUX**
 
 <video width="100%" controls>
-  <source src="case/2025_09_25-01_27_27--episode=4--success=False--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4" type="video/mp4">
+  <source src="case/false.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
