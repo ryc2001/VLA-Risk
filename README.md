@@ -1,13 +1,5 @@
 # VLA-RISK: BENCHMARKING VISION-LANGUAGEACTION MODELS WITH PHYSICAL ROBUSTNESS
-This project provides three scene types for evaluating VLA models on various datasets, supporting instructions and image attacks.
 ![robot scene](case/new.png)
-
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="case/true.gif" width="30%">
-  <img src="case/false.gif" width="30%">
-</div>
-
-
 
 ## Table of Contents
 
@@ -22,7 +14,10 @@ This project provides three scene types for evaluating VLA models on various dat
 - [Example Commands](#example-commands)
 
 ---
-
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img src="case/true.gif" width="30%">
+  <img src="case/false.gif" width="30%">
+</div>
 ## Script Overview
 
 ### 1. `run_single_task_custom_instruction.py`
