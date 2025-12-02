@@ -1,6 +1,7 @@
 # VLA-RISK: BENCHMARKING VISION-LANGUAGEACTION MODELS WITH PHYSICAL ROBUSTNESS
-![robot scene](case/new.png)
 This project provides three scene types for evaluating VLA models on various datasets, supporting instructions and image attacks.
+![robot scene](case/new.png)
+
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img src="case/true.gif" width="30%">
   <img src="case/false.gif" width="30%">
