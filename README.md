@@ -1,8 +1,13 @@
 # VLA Risk Evaluation
 
 This project provides three scene types for evaluating VLA models on various datasets, supporting instructions and image attacks.
-![Demo](case/true.gif)
-![Demo](case/false.gif)
+<div align="center">
+
+  <img src="case/true.gif" width="45%" style="display: inline-block;"/>
+  <img src="case/false.gif" width="45%" style="display: inline-block;"/>
+
+</div>
+
 ## Table of Contents
 
 - [Script Overview](#script-overview)
