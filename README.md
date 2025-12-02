@@ -34,7 +34,7 @@ Evaluates model performance with **images**. Uses FLUX.1-Kontext model to natura
 **Custom Instruction Attack**
 
 <video width="100%" controls>
-  <source src="case/true.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/ryc2001/VLA-Risk/main/case/true.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -44,7 +44,7 @@ Evaluates model performance with **images**. Uses FLUX.1-Kontext model to natura
 **Image Attack with FLUX**
 
 <video width="100%" controls>
-  <source src="case/false.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/ryc2001/VLA-Risk/main/case/false.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
