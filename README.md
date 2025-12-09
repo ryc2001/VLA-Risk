@@ -12,7 +12,6 @@
   - [Image Evaluation](#image-evaluation-flux)
 - [Parameter Reference](#parameter-reference)
 - [Output Description](#output-description)
-- [Example Commands](#example-commands)
 
 ---
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
@@ -35,7 +34,8 @@ Evaluates model performance with **images**. Uses FLUX.1-Kontext model to natura
 Please follow `requirements-min.txt` to install.
 
 ---
-#### Usage
+### Instruction Evaluation
+#### Basic Usage
 
 ```bash
 python experiments/robot/libero/run_single_task_custom_instruction.py \
@@ -48,7 +48,7 @@ python experiments/robot/libero/run_single_task_custom_instruction.py \
     --local_log_dir <log_dir>
 ```
 
-### Custom Image Evaluation
+### Image Evaluation
 
 #### Basic Usage
 
@@ -67,7 +67,7 @@ python experiments/robot/libero/run_single_task_image_flux.py \
 ```
 ---
 
-## Output
+## Output Description
 
 ### Image Outputs
 - **Intermediate images**: Saved in `{local_log_dir}/images_with_text/task_{task_id:02d}_{task_name}/episode_{episode_idx:02d}/step_{step:03d}.jpg`
