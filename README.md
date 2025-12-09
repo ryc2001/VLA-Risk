@@ -1,6 +1,6 @@
 # VLA-Risk: Benchmarking Vision-languageaction Models With Physical Robustness
 
-![robot scene](case/new.png)
+![robot scene](case/new2.png)
 
 ## Table of Contents
 
