@@ -8,8 +8,8 @@
 - [Requirements](#requirements)
 - [Datasets](#datasets)
 - [Usage](#usage)
-  - [Custom Instruction Evaluation](#custom-instruction-evaluation)
-  - [Custom Image Evaluation (FLUX)](#custom-image-evaluation-flux)
+  - [Instruction Evaluation](#instruction-evaluation)
+  - [Image Evaluation](#image-evaluation-flux)
 - [Parameter Reference](#parameter-reference)
 - [Output Description](#output-description)
 - [Example Commands](#example-commands)
@@ -31,8 +31,11 @@ Evaluates model performance with **images**. Uses FLUX.1-Kontext model to natura
 
 
 ---
+## Requirements
+Please follow `requirements-min.txt` to install.
 
-#### Basic Usage
+---
+#### Usage
 
 ```bash
 python experiments/robot/libero/run_single_task_custom_instruction.py \
